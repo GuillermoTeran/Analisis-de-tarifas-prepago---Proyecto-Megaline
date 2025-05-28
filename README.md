@@ -1,4 +1,4 @@
-# Análisis de planes tarifarios de prepago para Megaline
+# Análisis de  tarifas prepago para Megaline
 Descripción del proyecto:
 
 Como analista de datos para Megaline, un operador de telecomunicaciones, llevé a cabo un análisis de clientes para comparar el rendimiento de sus dos planes prepago: Surf y Ultimate. El objetivo principal era determinar cuál de los dos planes genera mayores ingresos, con el fin de optimizar la asignación del presupuesto publicitario.
